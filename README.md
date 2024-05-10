@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello there 👋, I'm Hamza</h1>
-<h3 align="center">A passionate full stack developer from Pakistan 🇵🇰.</h3>
+<h1 align="left">Hello there 👋, I'm Hamza</h1>
+<h3 align="left">A passionate full stack developer from Pakistan 🇵🇰.</h3>
 
 - 🔭 I’m currently working as a **Full Stack Developer.**
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything.**
 
-- 📄 Know about my experiences [resume](https://flowcv.com/resume/s18km1h0e2)
+- 📄 Know about my experiences on my [resume](https://flowcv.com/resume/s18km1h0e2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
