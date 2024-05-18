@@ -30,10 +30,12 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything.**
 
-- 📄 Wish to know about my experiences? [<img src="https://i.imgur.com/7aCQvOq.png" alt="resume" width="16" height="16" />
-<img src="https://i.imgur.com/RDw6y8q.png" alt="resume" width="16" height="16" />](https://flowcv.com/resume/s18km1h0e2)
+- 📄 Wish to know about my experiences? <a href="https://flowcv.com/resume/s18km1h0e2" target="_blank"><img src="https://i.imgur.com/7aCQvOq.png" alt="resume" width="16" height="16" /><img src="https://i.imgur.com/RDw6y8q.png" alt="resume" width="16" height="16" /></a>.
+
 <!-- 
-width="200"
+[<img src="https://i.imgur.com/7aCQvOq.png" alt="resume" width="16" height="16" />
+<img src="https://i.imgur.com/RDw6y8q.png" alt="resume" width="16" height="16" />](https://flowcv.com/resume/s18km1h0e2)
+
 [![resume](https://i.imgur.com/7aCQvOq.png)](https://flowcv.com/resume/s18km1h0e2) 
 [resume](https://flowcv.com/resume/s18km1h0e2)
 -->
