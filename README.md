@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 <!--
 <h1 align="left">Hello there 👋, I'm Hamza</h1>
--->
+
 <h3 align="left">A passionate full stack developer from Pakistan 🇵🇰.</h3>
+-->
+- 💻 A passionate programmer from **Pakistan** 🇵🇰.
 
 - 🔭 I’m currently working as a **Full Stack Developer.**
 
@@ -28,14 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **anything.**
 
-- 📄 Know about my experiences on my [resume](https://flowcv.com/resume/s18km1h0e2)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mhamza528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhamza528" height="30" width="40" /></a>
-<a href="https://kaggle.com/hxmzie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hxmzie" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hvmz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hvmz_" height="30" width="40" /></a>
-</p>
+- 📄 Wish to know about my experiences? [resume](https://flowcv.com/resume/s18km1h0e2)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
@@ -45,8 +40,14 @@ Here are some ideas to get you started:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
+<h3 align="left">Connect via:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mhamza528" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhamza528" height="30" width="40" /></a>
+<a href="https://kaggle.com/hxmzie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hxmzie" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hvmz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hvmz_" height="30" width="40" /></a>
+</p>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxxmz&show_icons=true&locale=en" alt="hxxmz" /></p>
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hxxmz&" alt="hxxmz" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hxxmz&" alt="hxxmz" /></p>
