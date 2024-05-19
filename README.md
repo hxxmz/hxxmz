@@ -56,5 +56,7 @@ Here are some ideas to get you started:
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hxxmz&show_icons=true&locale=en" alt="hxxmz" /></p>
 -->
-
+<!--
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hxxmz&" alt="hxxmz" /></p>
+-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hxxmz&theme=dark&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
