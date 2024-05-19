@@ -58,5 +58,6 @@ Here are some ideas to get you started:
 -->
 <!--
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hxxmz&" alt="hxxmz" /></p>
--->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hxxmz&theme=dark&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
+-->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hxxmz&theme=dark&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
