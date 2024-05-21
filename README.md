@@ -60,5 +60,6 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hxxmz&" alt="hxxmz" /></p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hxxmz&theme=dark&border_radius=5&card_width=500&card_height=200)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hxxmz&theme=material-palenight&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak" /></a>
--->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=500&card_height=200&background=45%2C425961%2C39284C&currStreakNum=EBEBEB&fire=EBB25A&dates=EBEBEB&sideLabels=EBEBEB&border=636D97&ring=EBEBEB&stroke=4E564B&sideNums=94A3E2&currStreakLabel=EB5454" alt="GitHub Streak" /></a>
+-->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=500&card_height=200&background=45%2C425961%2C39284C&currStreakNum=EBEBEB&fire=EBB25A&dates=EBEBEB&sideLabels=EBEBEB&border=636D97&ring=EBEBEB&stroke=4E564B&sideNums=94A3E2&currStreakLabel=94A3E2" alt="GitHub Streak" /></a>
