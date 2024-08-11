@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- ![hxxmz-banner](https://i.imgur.com/utq2K11.png "hxxmz-banner") -->
-![banner](https://i.imgur.com/PxPf2Oi.png "welcome")
+![hxxmz-banner](https://i.imgur.com/utq2K11.png "hxxmz-banner") 
+<!-- 
+![banner](https://i.imgur.com/PxPf2Oi.png "welcome") 
+-->
 
 <!--
 <h1 align="left">Hello there 👋, I'm Hamza</h1>
