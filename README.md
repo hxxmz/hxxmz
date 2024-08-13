@@ -75,8 +75,8 @@ Here are some ideas to get you started:
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxmz&layout=compact&bg_color=45,425961,39284c&title_color=94A3E2&text_color=EBEBEB&hide_border=false&border_color=636D97&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=300" />
 </a>
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=900&card_height=200&background=000000&border=000000&sideNums=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> <br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=820&card_height=200&background=000000&border=000000&sideNums=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> <br/>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=580&card_height=200&background=000000&currStreakNum=EBEBEB&border=636D97&stroke=4E564B&ring=EBEBEB&fire=EBB25A&sideNums=EBB25A&currStreakLabel=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_total_contributions=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=500&card_height=200&background=000000&currStreakNum=EBEBEB&border=000000&stroke=4E564B&ring=EBEBEB&fire=EBB25A&sideNums=EBB25A&currStreakLabel=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_total_contributions=true" alt="GitHub Streak" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxmz&layout=compact&bg_color=000000&title_color=EBB25A&text_color=EBEBEB&hide_border=false&border_color=000000&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=300" />
 </a>
