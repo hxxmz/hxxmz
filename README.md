@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![banner](https://i.imgur.com/PxPf2Oi.png "welcome")
 -->
 
-![banner](https://i.imgur.com/qHKuKhb.png "welcome") 
+![banner](https://i.imgur.com/9gp2fiR.png "welcome") 
 
 <!--
 <h1 align="left">Hello there 👋, I'm Hamza</h1>
