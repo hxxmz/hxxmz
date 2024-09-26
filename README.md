@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxmz&layout=compact&bg_color=000000&title_color=EBB25A&text_color=EBEBEB&hide_border=false&border_color=000000&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=300" />
 </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake.svg">
 </picture>
