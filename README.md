@@ -82,3 +82,8 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=525&card_height=200&background=000000&currStreakNum=EBEBEB&border=000000&stroke=4E564B&ring=EBEBEB&fire=EBB25A&sideNums=EBB25A&currStreakLabel=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_total_contributions=true" alt="GitHub Streak" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxmz&layout=compact&bg_color=000000&title_color=EBB25A&text_color=EBEBEB&hide_border=false&border_color=000000&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=300" />
 </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
