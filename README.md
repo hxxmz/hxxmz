@@ -1,4 +1,13 @@
+<!-- 
 ![banner](https://i.imgur.com/9gp2fiR.png "welcome") 
+-->
+    __
+   / /_  _  ___  ______ ___  ____
+  / __ \| |/_/ |/_/ __ `__ \/_  /
+ / / / />  <_>  </ / / / / / / /_
+/_/ /_/_/|_/_/|_/_/ /_/ /_/ /___/
+
+<h3 align="left">About Me</h3>
 
 - 💻 A passionate programmer from **Pakistan** 🇵🇰.
 
