@@ -23,13 +23,13 @@
 <a href="https://www.hackerrank.com/hvmz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hvmz_" height="30" width="40" /></a>
 </p>
 
-<!-- 
+
 <a href="https://github.com/hxxmz"><img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=850&card_height=200&background=000000&border=000000&sideNums=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a> <br/>
 <a href="https://github.com/hxxmz">
   <img src="https://streak-stats.demolab.com?user=hxxmz&theme=transparent&border_radius=5&card_width=525&card_height=200&background=000000&currStreakNum=EBEBEB&border=000000&stroke=4E564B&ring=EBEBEB&fire=EBB25A&sideNums=EBB25A&currStreakLabel=EBB25A&sideLabels=EBEBEB&dates=EBEBEB&hide_total_contributions=true" alt="GitHub Streak" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxxmz&layout=compact&bg_color=000000&title_color=EBB25A&text_color=EBEBEB&hide_border=false&border_color=000000&border_radius=10&size_weight=0.5&count_weight=0.5&langs_count=10&card_width=300" />
 </a>
--->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxxmz/hxxmz/output/github-contribution-grid-snake-dark.svg">
